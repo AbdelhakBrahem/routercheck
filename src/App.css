@@ -1,0 +1,24 @@
+.App {
+  
+  background-color: #121212;
+}
+
+.cards{
+  display: flex;
+  flex-wrap: wrap; 
+ 
+}
+
+.search{
+  display: flex;
+  align-items: center;
+
+}
+
+.btn-add{
+  width: 30%;
+  margin: 10px;
+  margin-left: 100px;
+  
+}
+
